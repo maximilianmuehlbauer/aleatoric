@@ -1,4 +1,4 @@
-Some little scripts to create kind of aleatoric music.
+Some little scripts to some create kind of aleatoric music.
 Requires sox to be installed - on Ubuntu:
 sudo apt-get install sox libsox-fmt-mp3
 
