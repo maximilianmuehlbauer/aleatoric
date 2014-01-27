@@ -1,0 +1,4 @@
+# Ignore music files
+*.ogg
+*.pyc
+*~

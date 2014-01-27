@@ -1,0 +1,9 @@
+Some little scripts to create kind of aleatoric music.
+Requires sox to be installed - on Ubuntu:
+sudo apt-get install sox libsox-fmt-mp3
+
+First run generate.py play [rendertype] | generate [synth [synthtype (see man sox, e.g. guitar)]]
+then  run concatenate.py
+then  run mix.sh
+then  run clean.sh
+ready!
